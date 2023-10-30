@@ -1,5 +1,6 @@
 # analysis-projects
 Beginner level project with hands-onn practice on report generation using Excel. Market insights on Sales with real time changes.
+Software tool used: MicroSoft Excel
 Steps used :
 Data collection
 Data Cleaning
